@@ -1,0 +1,12 @@
+Tocka datoteka - izbacite uljeza
+
+Danas je lijep dan za poloziti ispit
+192.168.10.10 je moja IP adresa
+A, ja jako volim IPv6 adrese:
+2001:0000:130F:0000:0000:09C0:876A:ABCD
+2001:0000:130F::ABCD
+2001:0000:130F:::EEEE
+FE80::1
+ABCD::1
+Sretno na ispitu
+i tocka.
